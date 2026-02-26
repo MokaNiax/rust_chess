@@ -1,15 +1,14 @@
 # rust_chess 🎮
-_______________________
 Project made at **Epitech** for Rust User Group
 _______________________
-# How to play ?
+## How to play ?
 Windows/Linux/MacOS :
 ```cargo run```
 _______________________
-# How to install cargo ?
+## How to install cargo ?
 [Tutorial](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 _______________________
-# Credits :
+## Credits :
 - Valentin Schmitz  - GGEZ (Graphical Library)
 - Stanis Serpentini - Chess Logic
 - Alexandre Duffez  - Chess Logic
